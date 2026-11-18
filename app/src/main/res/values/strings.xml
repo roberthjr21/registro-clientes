@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de clientes</string>
+    <string name="id">Identificación</string>
+    <string name="name">Nombre completo</string>
+    <string name="email">Correo electrónico</string>
+    <string name="phone">Teléfono</string>
+    <string name="save">Guardar</string>
+    <string name="search">Consultar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Eliminar</string>
+    <string name="clear">Limpiar</string>
+    <string name="search_help">Deja la identificación vacía para consultar todos los clientes.</string>
+    <string name="result_placeholder">Aquí aparecerán los resultados.</string>
+    <string name="id_error">Ingresa un número entero positivo de hasta 19 dígitos que esté dentro del rango válido.</string>
+    <string name="required">Este campo es obligatorio.</string>
+    <string name="email_error">Ingresa un correo válido.</string>
+    <string name="saved">Cliente guardado correctamente.</string>
+    <string name="duplicate">Ya existe un cliente con esta identificación.</string>
+    <string name="updated">Cliente actualizado correctamente.</string>
+    <string name="deleted">Cliente eliminado correctamente.</string>
+    <string name="not_found">Cliente no encontrado.</string>
+    <string name="no_clients">No hay clientes registrados.</string>
+    <string name="database_error">No se pudo completar la operación en la base de datos.</string>
+    <string name="record">ID: %1$d\nNombre: %2$s\nCorreo: %3$s\nTeléfono: %4$s</string>
+</resources>
